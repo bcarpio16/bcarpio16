@@ -1,28 +1,17 @@
 <div align="center" width="50">
-  
 # 👋 Hi, I'm Byron Carpio
 
 🎓 Computer Science Engineer - Escuela Politécnica Nacional  
 💻 Infrastructure Administrator | Linux | DevOps  
 📍 Quito, Ecuador  
-
 </div>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <br>
 <br>
 <br>
-
-I am a student of Computer Systems Engineering and Computer Science at Escuela Politécnica Nacional. I have several years of experience working as an Infrastructure Administrator. I am passionate about open-source software and actively promote its use as an ethical, transparent, and collaborative alternative for technological development.
-
-
-
----
-
-## 🚀 About Me
 
 I am a technology enthusiast with strong experience in IT infrastructure administration across enterprise and government environments. I focus on ensuring **high availability, security, and performance** of critical services in Data Centers.
 
