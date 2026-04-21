@@ -1,8 +1,11 @@
 <div align="center" width="50">
   
-# Hi, I'm Byron Carpio! 👋
+# 👋 Hi, I'm Byron Carpio
 
-<strong>Infrastructure Administrator | Open-Source</strong>
+🎓 Computer Science Engineer - Escuela Politécnica Nacional  
+💻 Infrastructure Administrator | Linux | DevOps  
+📍 Quito, Ecuador  
+
 </div>
 
 
@@ -15,11 +18,7 @@
 
 I am a student of Computer Systems Engineering and Computer Science at Escuela Politécnica Nacional. I have several years of experience working as an Infrastructure Administrator. I am passionate about open-source software and actively promote its use as an ethical, transparent, and collaborative alternative for technological development.
 
-# 👋 Hi, I'm Byron Carpio
 
-🎓 Computer Science Engineer - Escuela Politécnica Nacional  
-💻 Infrastructure Administrator | Linux | DevOps  
-📍 Quito, Ecuador  
 
 ---
 
