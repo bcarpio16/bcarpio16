@@ -15,6 +15,63 @@
 
 I am a student of Computer Systems Engineering and Computer Science at Escuela Politécnica Nacional. I have several years of experience working as an Infrastructure Administrator. I am passionate about open-source software and actively promote its use as an ethical, transparent, and collaborative alternative for technological development.
 
+# 👋 Hi, I'm Byron Carpio
+
+🎓 Computer Science Engineer - Escuela Politécnica Nacional  
+💻 Infrastructure Administrator | Linux | DevOps  
+📍 Quito, Ecuador  
+
+---
+
+## 🚀 About Me
+
+I am a technology enthusiast with strong experience in IT infrastructure administration across enterprise and government environments. I focus on ensuring **high availability, security, and performance** of critical services in Data Centers.
+
+💡 Passionate about open-source as an ethical, transparent, and collaborative approach to technology.
+
+---
+
+## 🛠️ Tech Stack
+
+- 🐧 Linux (Advanced administration)
+- 🐳 Docker & Containers
+- ☸️ OpenShift / Orchestration
+- 🗄️ MariaDB / MySQL
+- ⚙️ DevOps & Automation
+- 📊 Monitoring tools (PRTG & others)
+- 🔐 Server hardening & security
+- ☁️ AWS (Fundamentals)
+
+---
+
+## 📈 Key Experience
+
+✔️ Data Center infrastructure management  
+✔️ Server deployment (production, development, testing)  
+✔️ Patch management and system updates  
+✔️ L2 technical support  
+✔️ IT project participation  
+✔️ Technical documentation and standards  
+
+---
+
+## 🎯 Currently learning
+
+- 🔍 Advanced DevOps practices  
+- 🤖 AI integration in IT solutions  
+- ⚡ Infrastructure automation & optimization  
+
+---
+
+## 📫 Contact
+
+📧 carpio.byron89@gmail.com  
+
+---
+
+⭐ *“Open-source is not just technology, it's a way of building together.”*
+
+
 <br>
 <br>
 <br>
