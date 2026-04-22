@@ -22,7 +22,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-<p align="justify">
+<p style="text-align: justify;">
 I am an Infrastructure Technology Specialist with solid experience in managing enterprise and government environments. I specialize in Linux server administration, MariaDB database management, and implementing hardening practices to strengthen security in production systems.
 
 I have hands-on experience in operating and optimizing container-based infrastructures, using automation tools such as Ansible and orchestration platforms like OpenShift. My focus is on ensuring high availability, performance, and reliability of critical technology services.
