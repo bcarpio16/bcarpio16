@@ -23,13 +23,13 @@
 </picture>
 
 <p align="justify">
-I am a technology enthusiast with strong experience in IT infrastructure administration across enterprise and government environments. I specialize in ensuring high availability, security, and performance of critical services within Data Centers.
+I am an Infrastructure Technology Specialist with solid experience in managing enterprise and government environments. I specialize in Linux server administration, MariaDB database management, and implementing hardening practices to strengthen security in production systems.
 
-I coordinate and organize the activities of Open Source environments, leading technical teams and overseeing the operation, maintenance, and continuous improvement of infrastructure platforms. I am responsible for supervising and executing both preventive and corrective maintenance of virtual servers and services running on open-source operating systems.
+I have hands-on experience in operating and optimizing container-based infrastructures, using automation tools such as Ansible and orchestration platforms like OpenShift. My focus is on ensuring high availability, performance, and reliability of critical technology services.
 
-My expertise includes Linux server administration, MariaDB database management, server hardening, and container-based environments. I also have solid experience in automation, DevOps practices, and infrastructure optimization, focusing on reliability, scalability, and operational efficiency.
+I apply DevOps practices and automation strategies to enhance scalability, operational efficiency, and system resilience. I also actively contribute to continuous improvement processes by integrating solutions that optimize infrastructure management and operations.
 
-I am passionate about open-source as an ethical, transparent, and collaborative approach to building modern technological solutions, and I continuously seek to enhance processes, automate operations, and strengthen the security of the environments I manage.
+I am passionate about open-source software as an ethical, transparent, and collaborative approach to technological development. I am committed to innovation, process optimization, and strengthening the security of the environments I manage.
 </p>
 
 ---
